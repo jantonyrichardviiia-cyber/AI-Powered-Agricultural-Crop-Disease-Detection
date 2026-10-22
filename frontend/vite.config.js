@@ -12,7 +12,7 @@ export default defineConfig({
       includeAssets: ['icon-192.png', 'icon-512.png'],
       manifest: {
         name: 'Crop Disease Detection',
-        short_name: 'CropCare',
+        short_name: 'AgriShield',
         description:
           'Detect crop diseases from a photo and get verified treatment advice in your language.',
         theme_color: '#15803d',
